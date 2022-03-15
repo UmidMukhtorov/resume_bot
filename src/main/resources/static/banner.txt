@@ -10,4 +10,4 @@ ${AnsiColor.GREEN}| |              | || |              | || |              | || 
 ${AnsiColor.GREEN}| '--------------' || '--------------' || '--------------' || '--------------' || '--------------' || '--------------' |
 ${AnsiColor.GREEN} '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  '----------------'
 ${AnsiColor.RED}:: Running Spring Boot ${spring-boot.version} ::
-:: https://www.anorbank.uz :: Sahobiddin Abbosaliyev ::${AnsiColor.CYAN}
+:: https://www.anorbank.uz :: Umid Muxtorov ::${AnsiColor.CYAN}

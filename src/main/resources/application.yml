@@ -1,0 +1,21 @@
+server:
+  port: 9080
+
+spring:
+  banner:
+    location: classpath:static/banner.txt
+  datasource:
+    url: jdbc:postgresql://localhost:5432/mbgw
+    username: mbgw
+    password: 123
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+telegram:
+  bot:
+    username: ''
+    token: ''
+  group:
+    chatId: ''
